@@ -1,0 +1,29 @@
+STM32 ST-LINK CLI v3.5.0.0
+STM32 ST-LINK Command Line Interface
+
+ST-LINK SN: 36FF6C064B46323646270643
+ST-LINK Firmware version: V2J36S7
+Connected via SWD.
+SWD Frequency = 4000K.
+Target voltage = 2.4 V
+Connection mode: Connect Under Reset
+Reset mode: Hardware reset
+Device ID: 0x437 
+Device flash Size: 512 Kbytes
+Device family: STM32L15xxE/L162xE
+
+Loading file...
+Flash Programming:
+  File : D:\svn\2020_SST_Direct_to_Ultra_Dry_Ice\1.Customer Documents\7.Firmware\TTULTRA_MU_16K_64K_V710_20200319.hex
+  Address : 0x08000000
+Memory programming...
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±± 0% 0%€€€€€€€€€€€€€€€ 30%€€€€€€€€€€€€€€€ 60%€€€€€€€€€€€€€€€ 91%€€€€€ 100%
+Memory programmed in 15s and 382ms.
+Verification...OK
+Programming Complete.
+Programmed memory Checksum: 0x01742FC9
+
+[D:\svn\2020_SST_Direct_to_Ultra_Dry_Ice\1.Customer Documents\7.Firmware\TTULTRA_MU_16K_64K_V710_20200319.hex] file checksum : 0x01742FC9 
+
+MCU Reset.
+

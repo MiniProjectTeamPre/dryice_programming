@@ -1,0 +1,14 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_programming\dryice_programming\bin\Debug\dryice_programming.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_programming\dryice_programming\bin\Debug\dryice_programming.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_programming\dryice_programming\bin\Debug\dryice_programming.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\bin\Debug\dryice_programming.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\bin\Debug\dryice_programming.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\bin\Debug\dryice_programming.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\dryice_programming\dryice_programming\obj\Debug\dryice_programming.csproj.CoreCompileInputs.cache
